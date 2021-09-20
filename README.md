@@ -7,4 +7,4 @@
 * https://github.com/AdrianoDomingos10/httpsimple
 * cd httsimple
 * chmod +x httpsimple.rb
-* ./httpsimple <target> port> <80>
+* ./httpsimple <target> <port> <80>
